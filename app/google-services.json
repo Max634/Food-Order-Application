@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780552018746",
+    "project_id": "maksim-botukh-food-app",
+    "storage_bucket": "maksim-botukh-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780552018746:android:823c09e7b777fdc7708e03",
+        "android_client_info": {
+          "package_name": "com.example.maksim_botukh_cpt_188_a80s_final_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780552018746-aabvu6dbb3r9mklcgeauhq2k7912ecqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXytw4u2KulswyNzyL148n0Uff-xqWzo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780552018746-aabvu6dbb3r9mklcgeauhq2k7912ecqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
